@@ -1,0 +1,5 @@
+{
+    "coreCss": "css/core.css",
+    "bootstrapCss": "css/bootstrap.min.css",
+    "bootstrapJs": "vue/lib/bootstrap.min.js"
+}

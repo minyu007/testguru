@@ -1,0 +1,9 @@
+// home
+// export const SET_NEW_DATA = 'SET_NEW_DATA'
+export const SET_PERIOD_DATA = 'SET_PERIOD_DATA'
+// generate
+
+// ajax
+export const UPDATE_LOADING_STATUS = 'UPDATE_LOADING_STATUS'
+export const UPDATE_IMM_LOADING_STATUS = 'UPDATE_IMM_LOADING_STATUS'
+

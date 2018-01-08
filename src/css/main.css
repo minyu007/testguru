@@ -1,0 +1,23 @@
+body{
+	background: #f1f4f5;
+	padding-top: 0px;
+}
+#chartPie1 .ct-chart .ct-series.ct-series-a .ct-slice-donut{
+  stroke: #36ab7a!important;
+}
+#chartPie1 .ct-chart .ct-series.ct-series-b .ct-slice-donut{
+  stroke: #e9595b!important;
+}
+#chartPie1 .ct-chart .ct-series.ct-series-c .ct-slice-donut{
+  stroke: #62a8ea!important;
+}
+
+#chartPie2 .ct-chart .ct-series.ct-series-a .ct-slice-donut{
+  stroke: #926dde!important;
+}
+#chartPie2 .ct-chart .ct-series.ct-series-b .ct-slice-donut{
+  stroke: #f2a654!important;
+}
+#chartPie2 .ct-chart .ct-series.ct-series-c .ct-slice-donut{
+  stroke: #62a8ea!important;
+}
